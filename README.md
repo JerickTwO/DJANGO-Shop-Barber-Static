@@ -32,6 +32,7 @@ The project is organized into different Django applications, each with its own s
 3. Install the dependencies using `pip install -r requirements.txt`.
 4. Run the migrations with `python manage.py migrate`.
 5. Start the server with `python manage.py runserver`.
+![image](https://github.com/JerickTwO/DJANGO-Shop-Barber-Static/assets/137414207/f3ada377-aeb8-4a5e-89cf-5030d3a3f4b4)
 
 ## Contributions
 
